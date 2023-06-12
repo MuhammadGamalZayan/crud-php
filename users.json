@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "username": "johndoe",
+        "email": "johndoe@example.com",
+        "phone": "123-456-7890",
+        "website": "www.johndoe.com"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "username": "janesmith",
+        "email": "janesmith@example.com",
+        "phone": "987-654-3210",
+        "website": "www.janesmith.com",
+        "extension": "jpg"
+    },
+    {
+        "id": 3,
+        "name": "David Johnson",
+        "username": "davidjohnson",
+        "email": "davidjohnson@example.com",
+        "phone": "555-123-4567",
+        "website": "www.davidjohnson.com"
+    },
+    {
+        "id": 4,
+        "name": "Emily Wilson2",
+        "username": "emilywilson",
+        "email": "emilywilson@example.com",
+        "phone": "444-987-6543",
+        "website": "www.emilywilson.com"
+    },
+    {
+        "id": 5,
+        "name": "Michael Brown",
+        "username": "michaelbrown",
+        "email": "michaelbrown@example.com",
+        "phone": "777-555-1234",
+        "website": "www.michaelbrown.com"
+    },
+    {
+        "id": 6,
+        "name": "Olivia Davis",
+        "username": "oliviadavis",
+        "email": "oliviadavis@example.com",
+        "phone": "222-444-7777",
+        "website": "www.oliviadavis.com"
+    },
+    {
+        "id": 7,
+        "name": "William Wilson",
+        "username": "williamwilson",
+        "email": "williamwilson@example.com",
+        "phone": "666-333-2222",
+        "website": "www.williamwilson.com"
+    },
+    {
+        "id": 8,
+        "name": "Sophia Anderson",
+        "username": "sophiaanderson",
+        "email": "sophiaanderson@example.com",
+        "phone": "111-888-3333",
+        "website": "www.sophiaanderson.com"
+    },
+    {
+        "id": 9,
+        "name": "James Taylor",
+        "username": "jamestaylor",
+        "email": "jamestaylor@example.com",
+        "phone": "999-222-1111",
+        "website": "www.jamestaylor.com"
+    },
+    {
+        "id": 10,
+        "name": "Ava Moore",
+        "username": "avamoore",
+        "email": "avamoore@example.com",
+        "phone": "333-999-8888",
+        "website": "www.avamoore.com"
+    }
+]
